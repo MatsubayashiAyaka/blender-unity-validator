@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+
+def register():
+    """Register all operators."""
+    pass
+
+
+def unregister():
+    """Unregister all operators."""
+    pass
